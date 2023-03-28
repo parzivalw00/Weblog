@@ -11,7 +11,7 @@
 <img src="https://cdn.discordapp.com/attachments/1049406847314042930/1090238337840840726/Protfolio_-_Google_Chrome_08_01_1402_04_05_45_..png" align="center" width="400" height="200" />
 <img src="https://cdn.discordapp.com/attachments/1049406847314042930/1090238386683519056/Protfolio_-_Google_Chrome_08_01_1402_04_06_03_..png" align="center" width="400" height="200" />
 </div>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br />
 
 
 ----
@@ -20,7 +20,7 @@
 <img src="https://cdn.discordapp.com/attachments/1049406847314042930/1090238416500817920/Protfolio_-_Google_Chrome_08_01_1402_04_06_09_..png" align="center" width="400" height="200" />
 <img src="https://cdn.discordapp.com/attachments/1049406847314042930/1090238441016541274/Protfolio_-_Google_Chrome_08_01_1402_04_06_15_..png" align="center" width="400" height="200" />
 </div>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br />
 
 ----
 
