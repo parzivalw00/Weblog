@@ -1,7 +1,7 @@
 <div align="center">
 <h3>My WebLog</h3>
 <img src="https://cdn.discordapp.com/attachments/1049406847314042930/1090238279896535131/Protfolio_-_Google_Chrome_05_01_1402_02_51_37_..png" width="600" height=""300 />
-</div>
+</div><br />
 
 ----
 
