@@ -11,12 +11,6 @@
 <img src="https://cdn.discordapp.com/attachments/1049406847314042930/1090238386683519056/Protfolio_-_Google_Chrome_08_01_1402_04_06_03_..png" align="right" width="400" height="200" />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-----
-
-<div align="center">
-<h3>Light Mod</h3>
-<img src="https://cdn.discordapp.com/attachments/1049406847314042930/1090238473442705418/Protfolio_-_Google_Chrome_08_01_1402_04_06_23_..png" align="center" width="600" height="300" />
-</div>
 
 ----
 <h3 align="center">Page 3 & 4</h3>
